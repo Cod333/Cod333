@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Maria
-- 👀 I’m interested in Website Development
-- 🌱 I’m currently learning HTML & CSS
+- 👋 Hi, I’m Maria!
+- 👀 I’m interested in Website Development & Design.
+- 🌱 I’m currently learning HTML, CSS & Javascript.
